@@ -48,6 +48,7 @@
 | Проект | Описание | Ссылка |
 |---|---|---|
 | ⚡ **Cisco TRex Studio** | Комплексный генератор L4–L7 трафика на базе Cisco TRex v3.08 (ASTF / DPDK) с современной веб-панелью управления (Web UI), установщиком «в 1 клик» и 5 готовыми ПМИ для тестирования межсетевых экранов нового поколения (NGFW). | [bratiska6-pixel/cisco-trex-studio](https://github.com/bratiska6-pixel/cisco-trex-studio) |
+| 📑 **MS Office on Linux** | Автоматический установщик Microsoft Office 2010 (Word, Excel, PowerPoint) в Wine с обходом ошибки 1603 (ArpWrite), фиксом race condition на многоядерных CPU и интеграцией ярлыков в систему. | [bratiska6-pixel/ms-office-wine-linux](https://github.com/bratiska6-pixel/ms-office-wine-linux) |
 
 ---
 
