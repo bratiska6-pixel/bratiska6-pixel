@@ -10,6 +10,7 @@
 
 ### 📂 Проекты и решения
 
+* 📱 **[bt-proximity](https://github.com/bratiska6-pixel/bt-proximity)** — умная автоматическая блокировка и разблокировка Linux (Wayland / X11) по Bluetooth / BLE при приближении смартфона (iPhone, Android) или смарт-часов.
 * ⚡ **[cisco-trex-studio](https://github.com/bratiska6-pixel/cisco-trex-studio)** — генератор сетевого трафика на базе Cisco TRex v3.08 (ASTF / DPDK) с веб-панелью управления (Web UI) и тестовыми сценариями для NGFW.
 * 🛡️ **[ngfw-benchmark-trex](https://github.com/bratiska6-pixel/ngfw-benchmark-trex)** — универсальная методология, конфиги и руководство по нагрузочному тестированию межсетевых экранов нового поколения (NGFW).
 * 🔐 **[keepassxc-chrome-flatpak](https://github.com/bratiska6-pixel/keepassxc-chrome-flatpak)** — настройка связки менеджера паролей KeePassXC с Google Chrome при установке из изолированных песочниц Flatpak.
